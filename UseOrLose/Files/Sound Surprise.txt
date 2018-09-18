@@ -1,0 +1,11 @@
+Sound Surprise,Sherif Mohamed,shiko@edu.com,MCQ,Science,Test your knowledge in the “Sound Surprise”,5
+What is a scientist who studies the weather called?
+Meteorologist,Meteorologist,Geologist,Biologist,Astronomer
+What month do we have the least amount of daylight?
+Winter,Winter,Summer,Spring,Fall
+When is hail most likely?
+During big storms,When it is very cold,Sunny days,During big storms,Autumn
+Which of the following is a component of all clouds?  
+Water,Lightning,Thunder,Cotton,Water
+What time of day is usually the warmest?
+The Afternoon,Evining,The Afternoon,Dawn,Nighttime

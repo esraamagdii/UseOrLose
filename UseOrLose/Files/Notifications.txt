@@ -1,0 +1,8 @@
+shady@edu.com,Arithmetic Operations,Accepted.
+zezo@edu.com,Solids vs. Liquids,Accepted.
+zezo@edu.com,Addition,Accepted.
+shady@edu.com,Web Design,Accepted.
+zezo@edu.com,Variables,Accepted.
+shiko@edu.com,Chemicals,Accepted.
+shiko@edu.com,Sound Surprise,Accepted.
+zezo@edu.com,Math Operations,Accepted.

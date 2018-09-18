@@ -1,0 +1,5 @@
+Arithmetic Operations,5.0
+Addition,0.0
+Variables,0.0
+Math Operations,0.0
+New Game,0.0

@@ -1,0 +1,9 @@
+Arithmetic Operations,Shady Sherif,shady@edu.com,MCQ,Math,Choose The Correct Operation,4
+31 (?) 16 = 15
+-,/,+,*,-
+39 (?) 39 = 78
++,/,+,*,-
+5 (?) 8 = 40
+*,/,+,*,-
+110 (?) 2 = 55
+/,/,+,*,-

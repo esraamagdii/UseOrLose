@@ -1,0 +1,7 @@
+Solids vs. Liquids,Zyad Ghorab,zezo@edu.com,TF,Science,Test your knowledge in the “Solids vs. Liquids”,3
+Saliva is an example of a liqued.
+True
+If you put a solid into a new container it will change its shape, but not its size.
+False
+When you mix sugar into water, it melts.
+False

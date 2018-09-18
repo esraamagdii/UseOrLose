@@ -1,0 +1,17 @@
+Web Design,Zyad Ghorab,zezo@edu.com,MCQ,Programming,Learn Web Design Concepts.,8
+Choose the correct HTML element for the largest heading:
+<h1>,<h5>,<h1>,<heading>,<head>
+What is the correct HTML element for inserting a line break?
+<br>,<bl>,<br>,<lb>,<break>
+Choose the correct HTML element to define important text
+<strong>,<important>,<b>,<strong>,<i>
+Which character is used to indicate an end tag?
+/,/,<,*,^
+What does CSS stand for?
+Cascading Style Sheets,Creative Style Sheets,Computer Style Sheets,Colorful Style Sheets,Cascading Style Sheets
+Which CSS property controls the text size?
+font-size,text-style,font-size,text-size,font-style
+Which HTML tag is used to define an internal style sheet?
+<style>,<css>,<script>,<style>,<head>
+Which is the correct CSS syntax?
+body {color: black;},{body:color=black;},body:color=black;,body {color: black;},{body;color:black;}

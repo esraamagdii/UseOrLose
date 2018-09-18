@@ -1,0 +1,9 @@
+Sherif Mohamed,123,shiko@edu.com,Male,Teacher,20
+Zyad Ghorab,123,zezo@edu.com,Male,Teacher,20
+Esraa Magdy,123,esraa@gmail.com,Female,Student,20
+Admin,123,admin@admin.com,Mala,Admin,20
+Shady Sherif,123,shady@edu.com,Male,Teacher,20
+Khaled Bebo,123,khaled@gmail.com,Male,Student,20
+Hussien Hamdy,123,koryFantasticUwk@yahoo.com,Male,Student,20
+Shady,12345678,ahkcsit@gmail.com,Male,Student,21
+Shady Sherif,123,shadysherif@edu.com,Male,Teacher,20

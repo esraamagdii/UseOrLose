@@ -1,0 +1,7 @@
+Chemicals,Sherif Mohamed,shiko@edu.com,MCQ,Science,Names of Chemicals,3
+NA = ?
+Sodium,Sodium,Carbon,Water,Oxygen
+H2O = ?
+Water,Water,Iron,Glass,Oxygen
+Fe = ?
+Iron,Iron,Sodium,Water,Glass
